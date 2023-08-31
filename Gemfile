@@ -73,4 +73,6 @@ group :test do
 end
 
 gem "erb_lint", require: false
-gem "devise"
+gem "devise", "4.9.2"
+
+gem "noticed", "~> 1.6"
